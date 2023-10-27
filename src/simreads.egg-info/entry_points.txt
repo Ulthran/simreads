@@ -1,0 +1,2 @@
+[console_scripts]
+simreads = simreads.cli:main

@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/simreads/__init__.py
+src/simreads/cli.py
+src/simreads.egg-info/PKG-INFO
+src/simreads.egg-info/SOURCES.txt
+src/simreads.egg-info/dependency_links.txt
+src/simreads.egg-info/entry_points.txt
+src/simreads.egg-info/requires.txt
+src/simreads.egg-info/top_level.txt

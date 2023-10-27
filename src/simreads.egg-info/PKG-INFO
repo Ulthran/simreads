@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: simreads
+Version: 0.0.0
+Summary: Simulate good (or bad) test data for your bioinformatics workflow
+Author-email: Charlie Bushman <ctbushman@gmail.com>
+Maintainer-email: Charlie Bushman <ctbushman@gmail.com>
+Project-URL: Homepage, https://github.com/Ulthran/simreads/
+Project-URL: Bug Reports, https://github.com/Ulthran/simreads/issues
+Project-URL: Source, https://github.com/Ulthran/simreads/
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Provides-Extra: dev
+Requires-Dist: black; extra == "dev"
+Provides-Extra: test
+Requires-Dist: pytest; extra == "test"
+Requires-Dist: pytest-cov; extra == "test"
+
+# simreads
+Simulate good (or bad) test data for your bioinformatics workflow
